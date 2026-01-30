@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Hello world!<br>I am a developer who has studied iOS development and more, and you can see various examples of my work in my profile.<br>I am currently focused on creating my own app using the latest neural networks.<br>
+👋Hello world!<br> I am a developer who has studied iOS development and more, and you can see various examples of my work in my profile.<br> I am currently focused on creating my own app using the latest neural networks.<br>
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Masya21) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@A1exanderGit) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:masyaengl@hotmail.com) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@Masya3421)
