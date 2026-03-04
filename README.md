@@ -1,6 +1,6 @@
 # 💫 About my profile:
 In my profile, you can see a couple of projects written for the purpose of gaining experience; overall, I'm working on developing my own large-scale project that will involve neural networks.
-//В моём профиле вы можете увидеть пару проектов, написанных с целью получения опыта; в целом, я работаю над разработкой собственного масштабного проекта, который будет связан с нейронными сетями.
+# В моём профиле вы можете увидеть пару проектов, написанных с целью получения опыта; в целом, я работаю над разработкой собственного масштабного проекта, который будет связан с нейронными сетями.
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Masya21) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@A1exanderGit) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:masyaengl@hotmail.com) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@Masya3421)
 
